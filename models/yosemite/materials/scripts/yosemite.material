@@ -27,14 +27,10 @@ material Gazebo/Heliport
   {
     pass
     {
-      ambient 0.5 0.5 0.5 1.000000
 
       texture_unit
       {
-        scale .02 .02
-        texture ../textures/heliport.jpg
-        filtering anisotropic
-        max_anisotropy 16
+        texture ../textures/heliport.png
       }
     }
   }
