@@ -62,8 +62,8 @@
           </geometry>
           <material>
             <script>
-              <uri>file://media/materials/scripts/gazebo.material</uri>
-              <name>Gazebo/Runway</name>
+              <uri>file://yosemite/materials/scripts/yosemite.material</uri>
+              <name>Gazebo/Heliport</name>
             </script>
           </material>
         </visual>
