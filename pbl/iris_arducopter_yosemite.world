@@ -62,7 +62,7 @@
           </geometry>
           <material>
             <script>
-              <uri>file://yosemite/materials/scripts/yosemite.material</uri>
+              <uri>model://yosemite/materials/scripts/yosemite.material</uri>
               <name>Gazebo/Heliport</name>
             </script>
           </material>
